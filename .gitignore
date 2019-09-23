@@ -1,0 +1,7 @@
+# ignore everything
+*
+# except for project files
+!.gitignore
+!vcd-rest-get-query.ps1
+!LICENSE
+!README.md
